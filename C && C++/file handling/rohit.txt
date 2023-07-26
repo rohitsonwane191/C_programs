@@ -1,0 +1,13 @@
+ table is :1
+ table is :4
+ table is :9
+ table is :16
+ table is :25
+ table is :36
+ table is :49
+ table is :64
+ table is :81
+ table is :100
+name is :rohit
+age is =10
+ sum of given number :99
